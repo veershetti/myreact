@@ -9,12 +9,12 @@ function App() {
   return (
     <>
     
-    <div className="container" class="text-success text-center" > 
+    <div className="container" className="text-success text-center" > 
         <div className="danger">
         <h1>SHAHEED HOSPITAL</h1>
         </div>
     </div>
-    <div className="container" class="text-danger text-center" > 
+    <div className="container" className="text-danger text-center" > 
         <div >
         <h2>DALLI RAJHARA</h2>
         </div>
